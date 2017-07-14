@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-08-07 14:36+0300\n"
+"PO-Revision-Date: 2016-08-07 14:37+0300\n"
+"Last-Translator: \n"
+"Language-Team: Maxim Glazunov <djdiplomat477@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: best-rating-pageviews.php\n"
+"X-Poedit-SearchPath-1: uninstall.php\n"
+"X-Poedit-SearchPath-2: widgets.php\n"
+
+#: best-rating-pageviews.php:145
+msgid "Raiting"
+msgstr "Рейтинг"
+
+#: widgets.php:12
+msgid "Rating & PageViews"
+msgstr "Рейтинг и Просмотры"
+
+#: widgets.php:32 widgets.php:86
+msgid "Title"
+msgstr "Название"
+
+#: widgets.php:33 widgets.php:125
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: widgets.php:36 widgets.php:124
+msgid "PageViews"
+msgstr "Просмотры"
+
+#: widgets.php:47
+msgid "Edit"
+msgstr "Редактировать"
+
+#: widgets.php:64 widgets.php:69
+msgid "Popular"
+msgstr "Популярное"
+
+#: widgets.php:65
+msgid "Shows popular posts and pages based on the rating and pageviews"
+msgstr ""
+"Отображаются популярные записи и страницы на основе рейтинга и просмотров"
+
+#: widgets.php:93
+msgid "Num Posts"
+msgstr "Число постов"
+
+#: widgets.php:99
+msgid "Show"
+msgstr "Показать"
+
+#: widgets.php:102
+msgid "Post"
+msgstr "Записи"
+
+#: widgets.php:103
+msgid "Page"
+msgstr "Страницы"
+
+#: widgets.php:110
+msgid "Order"
+msgstr "Сортировка"
+
+#: widgets.php:113
+msgid "ASC"
+msgstr "Прямая"
+
+#: widgets.php:114
+msgid "DESC"
+msgstr "Обратная"
+
+#: widgets.php:121
+msgid "Order by"
+msgstr "Сортировать по"
+
+#~ msgid "Settings"
+#~ msgstr "Настройки"
+
+#~ msgid "Settings Maps for WP"
+#~ msgstr "Настройки Maps for WP"
+
+#~ msgid "Text when you hover over a point"
+#~ msgstr "Текст при наведении на точку"
+
+#~ msgid "The image point on the map (36×36)"
+#~ msgstr "Иконка точки на карте (36×36)"
+
+#~ msgid "Zoom map with many points"
+#~ msgstr "Масштаб карты с множеством точек"
+
+#~ msgid "Latitude center map with many points"
+#~ msgstr "Широта центра карты с множеством точек"
+
+#~ msgid "Longitude center map with many points"
+#~ msgstr "Долгота карты с множеством точек"
+
+#~ msgid "Zoom map with one point"
+#~ msgstr "Масштаб карты с одной точкой"
+
+#~ msgid "Latitude map with one point"
+#~ msgstr "Широтка карты с одной точкой"
+
+#~ msgid "Longitude map with one point"
+#~ msgstr "Долготак карты с одной точкой"
+
+#~ msgid "Save settings"
+#~ msgstr "Сохранить"
+
+#~ msgid "Location"
+#~ msgstr "Местоположение"
+
+#~ msgid "Latitude"
+#~ msgstr "Широта"
+
+#~ msgid "Longitude"
+#~ msgstr "Долгота"
+
+#~ msgid "Country"
+#~ msgstr "Страна"
+
+#~ msgid "Region"
+#~ msgstr "Регион"
+
+#~ msgid "Subadministrative"
+#~ msgstr "Район"
+
+#~ msgid "City"
+#~ msgstr "Город"
+
+#~ msgid "The exact address"
+#~ msgstr "Точный адрес"
+
+#~ msgid "Container Yandex Maps"
+#~ msgstr "Блок Yandex Maps"
